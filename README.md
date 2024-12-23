@@ -6,8 +6,9 @@
 ---
 
 ## 💚발표 자료💚
-- [📚Week14_1_김나경]
-- [📚Week14_2_차수빈]
+- [📚Week14_1_김나경](https://github.com/user-attachments/files/18233825/Week14_1_.pdf)
+- [📚Week14_2_차수빈](https://github.com/user-attachments/files/18233827/Week14_2_.pdf)
+
 
 ---
 
